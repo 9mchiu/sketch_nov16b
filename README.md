@@ -1,1 +1,2 @@
-# sketch_nov16b
+-- Arduino filename: sketch_nov16b  
+-- 機械所_掃頻建ID
